@@ -1,0 +1,2 @@
+# qtexample
+qt tutorial exercise
